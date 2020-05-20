@@ -12,7 +12,7 @@ Jupyter notebook and CSV to clone and run my final project for CS 629 - Data Vis
 5. jupyter notebook Visualizations.ipynb
 
 ### How to **OPEN** my project WITH Anaconda or Jupyter Notebook installed:
-1. Open terminal
+1. Open terminal & clone my project into a folder of your choosing
 2. Navigate to my repo
 3. jupyter notebook Visualizations.ipynb
 
