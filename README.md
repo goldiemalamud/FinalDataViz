@@ -19,6 +19,8 @@ Jupyter notebook and CSV to clone and run my final project for CS 629 - Data Vis
 1. After you have opened my jupyter notebook, simply select the very first cell and hit "Run" on the top of the page. 
 2. Continue to hit run on each cell to populate results and visualizations
 
+### Final Visualization can be found via opening Visualization.pdf 
+
 ### Questions?
 Email me at malam100@mail.chapman.edu 
 
